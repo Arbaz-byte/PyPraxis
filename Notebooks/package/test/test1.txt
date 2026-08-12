@@ -1,0 +1,2 @@
+This is another example of writing and then reading a file
+ use w+ for this purpose
