@@ -21,3 +21,19 @@ Whether you're a beginner solidifying your foundation or an experienced dev need
 ---
 📜 License
 Distributed under the MIT License. See the LICENSE file for more details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
