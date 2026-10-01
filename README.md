@@ -27,6 +27,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -41,4 +42,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
