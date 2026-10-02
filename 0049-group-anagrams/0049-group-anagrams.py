@@ -5,8 +5,8 @@ class Solution:
         group = defaultdict(list)
 
         for i in range(len(strs)):
+            # key that allow duplicate
             key = "".join(sorted(strs[i]))
-
             # if find that same signature , add value
             group[key].append(strs[i])
 
