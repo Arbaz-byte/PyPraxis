@@ -5,20 +5,11 @@ class Solution:
         if len(s) != len(t):
             return False
         
-        # As all the chacters are in lower case from a to z(26 char)
-        count = [0] *26
-
-        for i in range(len(s)):
-            # Increment for s, decrement for t
-            count[ord(s[i]) - ord("a")] += 1
-            count[ord(t[i]) - ord("a")] -=1
-        
-        # If they are Anagram , every valu in count must be zero
-        for val in count:
-            if val != 0:
+        # If we make a set of char and check how many time each char occure if same --> Anagram
+        for i in set(s):
+            if s.count(i) != t.count(i):
                 return False
         return True
-
      
     
 
