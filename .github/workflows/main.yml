@@ -1,0 +1,85 @@
+name: Move LeetCode solutions into DSA/weekNN
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: move-leetcode
+  cancel-in-progress: false
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    # Prevents triggering itself after moving files
+    if: "!contains(github.event.head_commit.message, 'Move LeetCode solutions')"
+    
+    steps:
+      - name: Wait for LeetHub to finish
+        run: sleep 30
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0 # Required to fetch full git history for log parsing
+
+      - name: Move new problem folders into the current week folder
+        run: |
+          export TZ=Asia/Kolkata
+          START=$(date -d "2026-10-01" +%s)
+          NOW=$(date +%s)
+          WEEK=$(( (NOW - START) / 604800 + 1 ))
+          [ "$WEEK" -lt 1 ] && WEEK=1
+          DEST="DSA/$(printf 'week%02d' "$WEEK")"
+
+          moved=0
+          
+          # Create a temporary file to store our rich commit message
+          COMMIT_MSG_FILE=$(mktemp)
+          echo "Move LeetCode solutions into $DEST" > "$COMMIT_MSG_FILE"
+          echo "" >> "$COMMIT_MSG_FILE"
+
+          for d in [0-9][0-9][0-9][0-9]-*/; do
+            [ -d "$d" ] || continue
+            d="${d%/}"
+            
+            # 1. Try to find the specific LeetHub commit message containing Time/Space stats
+            ORIG_MSG=$(git log --pretty=%B -- "$d" | grep -E "Time:|Space:|LeetHub" | head -n 1)
+            
+            # 2. Fallback to the latest commit message if no specific stats message is found
+            if [ -z "$ORIG_MSG" ]; then
+              ORIG_MSG=$(git log -1 --pretty=%B -- "$d")
+            fi
+            
+            # Clean up carriage returns and empty lines
+            ORIG_MSG=$(echo "$ORIG_MSG" | tr -d '\r')
+            [ -z "$ORIG_MSG" ] && ORIG_MSG="Add $d"
+            
+            # Append the extracted message to our commit file
+            echo "- $d: $ORIG_MSG" >> "$COMMIT_MSG_FILE"
+            
+            mkdir -p "$DEST"
+            mv "$d" "$DEST/"
+            echo "Moved $d -> $DEST/"
+            moved=1
+          done
+
+          if [ "$moved" -eq 0 ]; then
+            echo "Nothing to move."
+            rm -f "$COMMIT_MSG_FILE"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          
+          # Commit using the generated message file (-F flag)
+          git commit -F "$COMMIT_MSG_FILE"
+          rm -f "$COMMIT_MSG_FILE"
+          
+          git pull --rebase origin main
+          git push origin main
