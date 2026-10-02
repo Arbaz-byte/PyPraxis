@@ -36,10 +36,12 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0001-two-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +50,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
