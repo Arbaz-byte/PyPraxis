@@ -42,56 +42,49 @@ jobs:
 
           moved=0
 
-          COMMIT_MSG_FILE=$(mktemp)
-          echo "Move LeetCode solutions into $DEST" > "$COMMIT_MSG_FILE"
-          echo "" >> "$COMMIT_MSG_FILE"
-
           shopt -s nullglob
           for d in [0-9][0-9][0-9][0-9]-*/; do
             [ -d "$d" ] || continue
             d="${d%/}"
 
-            # If the same folder already exists in the destination, replace it.
+            # Avoid mv error if a same-named folder already exists in the destination
             if [ -d "$DEST/$d" ]; then
-              echo "Destination already contains $d; replacing it."
+              echo "Destination already contains $d; removing it."
               rm -rf "$DEST/$d"
             fi
 
-            ORIG_MSG=$(git log --pretty=%B -- "$d" | grep -E "Time:|Space:|LeetHub" | head -n 1 || true)
+            # Prefer the original LeetHub v2 message for this folder
+            ORIG_MSG=$(git log --pretty=%B -- "$d" | grep -E "Time:|Space:|LeetHub|Add " | head -n 1 || true)
 
             if [ -z "$ORIG_MSG" ]; then
               ORIG_MSG=$(git log -1 --pretty=%B -- "$d" || true)
             fi
 
-            ORIG_MSG=$(printf '%s' "$ORIG_MSG" | tr -d '\r')
+            # Clean up and keep only the first meaningful line as the commit subject
+            ORIG_MSG=$(printf '%s' "$ORIG_MSG" | tr -d '\r' | sed '/^$/d' | head -n 1)
             [ -z "$ORIG_MSG" ] && ORIG_MSG="Add $d"
-
-            echo "- $d: $ORIG_MSG" >> "$COMMIT_MSG_FILE"
 
             mv "$d" "$DEST/"
             echo "Moved $d -> $DEST/"
+
+            git add -A
+            if git diff --cached --quiet; then
+              echo "No changes to commit for $d"
+              continue
+            fi
+
+            git -c user.name='github-actions[bot]' \
+                -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+                commit -m "$ORIG_MSG"
+
             moved=1
           done
           shopt -u nullglob
 
           if [ "$moved" -eq 0 ]; then
             echo "Nothing to move."
-            rm -f "$COMMIT_MSG_FILE"
             exit 0
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            rm -f "$COMMIT_MSG_FILE"
-            exit 0
-          fi
-
-          git commit -F "$COMMIT_MSG_FILE"
-          rm -f "$COMMIT_MSG_FILE"
 
           git pull --rebase origin main
           git push origin main
