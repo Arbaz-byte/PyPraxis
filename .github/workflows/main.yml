@@ -47,27 +47,32 @@ jobs:
             [ -d "$d" ] || continue
             d="${d%/}"
 
-            # Avoid mv error if a same-named folder already exists in the destination
+            # Avoid the "Directory not empty" mv error when folder already exists
             if [ -d "$DEST/$d" ]; then
-              echo "Destination already contains $d; removing it."
+              echo "Destination already contains $d; removing old version."
               rm -rf "$DEST/$d"
             fi
 
-            # Prefer the original LeetHub v2 message for this folder
-            ORIG_MSG=$(git log --pretty=%B -- "$d" | grep -E "Time:|Space:|LeetHub|Add " | head -n 1 || true)
+            # Look for the exact original LeetHub message
+            ORIG_MSG=$(git log --pretty=%B -- "$d" | grep -E "Time:|Space:|LeetHub" | head -n 1 || true)
 
+            # Fallback if no LeetHub stats commit is found
             if [ -z "$ORIG_MSG" ]; then
               ORIG_MSG=$(git log -1 --pretty=%B -- "$d" || true)
             fi
 
-            # Clean up and keep only the first meaningful line as the commit subject
-            ORIG_MSG=$(printf '%s' "$ORIG_MSG" | tr -d '\r' | sed '/^$/d' | head -n 1)
+            # Keep only the actual commit subject line
+            ORIG_MSG=$(printf '%s' "$ORIG_MSG" | tr -d '\r' | head -n 1)
+
+            # Final fallback
             [ -z "$ORIG_MSG" ] && ORIG_MSG="Add $d"
 
+            # Move the folder into the destination week directory
             mv "$d" "$DEST/"
             echo "Moved $d -> $DEST/"
 
             git add -A
+
             if git diff --cached --quiet; then
               echo "No changes to commit for $d"
               continue
@@ -77,6 +82,7 @@ jobs:
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
                 commit -m "$ORIG_MSG"
 
+            echo "Committed: $ORIG_MSG"
             moved=1
           done
           shopt -u nullglob
