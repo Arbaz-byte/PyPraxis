@@ -17,5 +17,4 @@ class Solution:
         if output == []:
             return 0
         else:
-            output = sorted(output, reverse=True)
-            return output[0]
+            return max(output)
