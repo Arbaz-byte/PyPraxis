@@ -31,6 +31,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -94,4 +96,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
