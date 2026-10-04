@@ -29,6 +29,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0001-two-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Arbaz-byte/PyPraxis/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arbaz-byte/PyPraxis/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
