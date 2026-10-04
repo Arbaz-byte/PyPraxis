@@ -54,6 +54,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
