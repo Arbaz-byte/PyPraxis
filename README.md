@@ -39,6 +39,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
+| [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
 | ------- |
