@@ -37,6 +37,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
@@ -103,6 +104,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
@@ -122,4 +124,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arbaz-byte/PyPraxis/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
