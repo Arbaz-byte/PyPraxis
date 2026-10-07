@@ -39,6 +39,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -52,6 +53,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
