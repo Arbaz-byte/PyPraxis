@@ -32,6 +32,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Arbaz-byte/PyPraxis/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
@@ -139,4 +141,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
