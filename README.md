@@ -141,6 +141,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 ## Quicksort
 |  |
@@ -150,6 +151,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
