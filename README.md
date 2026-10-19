@@ -43,6 +43,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -154,6 +156,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0020-valid-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -162,4 +165,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
