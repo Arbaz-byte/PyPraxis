@@ -47,6 +47,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Arbaz-byte/PyPraxis/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -157,6 +158,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -169,4 +171,5 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
