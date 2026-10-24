@@ -40,6 +40,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +102,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Arbaz-byte/PyPraxis/tree/master/1046-last-stone-weight) |
@@ -143,6 +145,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arbaz-byte/PyPraxis/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 ## Design
@@ -192,4 +195,16 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
