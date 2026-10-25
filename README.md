@@ -73,6 +73,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Arbaz-byte/PyPraxis/tree/master/1046-last-stone-weight) |
@@ -152,6 +155,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quicksort
@@ -194,6 +198,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
