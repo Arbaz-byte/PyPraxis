@@ -1,20 +1,18 @@
 class MedianFinder:
 
     def __init__(self):
-        self.sorted = []
-        
+        self.minHeap = []
+        self.maxHeap = []
 
     def addNum(self, num: int) -> None:
-        bisect.insort(self.sorted, num)
-    
-    def findMedian(self) -> float:
-        if len(self.sorted) % 2 != 0:
-            return self.sorted[len(self.sorted) // 2]
-        else:
-            i = len(self.sorted) //2 - 1 
-            j = len(self.sorted) // 2
+        heappush(self.minHeap, -num)
+        heappush(self.maxHeap, -heappop(self.minHeap))
+        if len(self.maxHeap) > len(self.minHeap):
+            heappush(self.minHeap, - heappop(self.maxHeap))
 
-            return (self.sorted[i] + self.sorted[j]) / 2
+    def findMedian(self) -> float:
+        return (self.minHeap[0] *(-1) + self.maxHeap[0])/2 if len(self.minHeap) == len(self.maxHeap) else self.minHeap[0] *(-1)
+
 
 
 # Your MedianFinder object will be instantiated and called as such:
