@@ -47,6 +47,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
@@ -67,6 +68,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -114,6 +117,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arbaz-byte/PyPraxis/tree/master/1046-last-stone-weight) |
@@ -125,6 +129,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -154,6 +159,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arbaz-byte/PyPraxis/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Arbaz-byte/PyPraxis/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
