@@ -104,6 +104,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaz-byte/PyPraxis/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -173,6 +174,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0155-min-stack](https://github.com/Arbaz-byte/PyPraxis/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quicksort
@@ -207,6 +209,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -218,6 +221,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -249,11 +253,13 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
