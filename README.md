@@ -210,6 +210,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -224,6 +225,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arbaz-byte/PyPraxis/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -257,6 +259,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0098-validate-binary-search-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -268,4 +271,12 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
