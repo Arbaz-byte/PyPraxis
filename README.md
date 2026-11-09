@@ -54,6 +54,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Arbaz-byte/PyPraxis/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Arbaz-byte/PyPraxis/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -282,6 +283,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -299,4 +301,5 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
