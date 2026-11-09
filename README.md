@@ -38,6 +38,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arbaz-byte/PyPraxis/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Arbaz-byte/PyPraxis/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -276,6 +279,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0102-binary-tree-level-order-traversal](https://github.com/Arbaz-byte/PyPraxis/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arbaz-byte/PyPraxis/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
@@ -291,4 +295,8 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
