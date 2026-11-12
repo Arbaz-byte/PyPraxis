@@ -33,6 +33,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0035-search-insert-position](https://github.com/Arbaz-byte/PyPraxis/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -320,4 +321,12 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Arbaz-byte/PyPraxis/tree/master/0133-clone-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
