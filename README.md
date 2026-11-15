@@ -33,6 +33,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0035-search-insert-position](https://github.com/Arbaz-byte/PyPraxis/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -329,9 +330,14 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
