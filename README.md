@@ -32,6 +32,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0015-3sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Arbaz-byte/PyPraxis/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Arbaz-byte/PyPraxis/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
@@ -330,6 +331,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Arbaz-byte/PyPraxis/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arbaz-byte/PyPraxis/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
