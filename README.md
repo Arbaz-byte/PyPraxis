@@ -103,6 +103,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
@@ -111,6 +112,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arbaz-byte/PyPraxis/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Arbaz-byte/PyPraxis/tree/master/0127-word-ladder) |
@@ -205,6 +207,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arbaz-byte/PyPraxis/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
