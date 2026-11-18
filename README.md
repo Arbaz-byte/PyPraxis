@@ -37,6 +37,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arbaz-byte/PyPraxis/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -114,6 +115,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0020-valid-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Arbaz-byte/PyPraxis/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Arbaz-byte/PyPraxis/tree/master/0242-valid-anagram) |
@@ -280,6 +282,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -319,6 +322,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
 ## Bidirectional Search
@@ -339,6 +343,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arbaz-byte/PyPraxis/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
