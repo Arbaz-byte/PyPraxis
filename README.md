@@ -105,6 +105,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
@@ -214,6 +215,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
@@ -362,5 +364,6 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
