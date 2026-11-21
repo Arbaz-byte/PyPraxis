@@ -43,6 +43,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arbaz-byte/PyPraxis/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arbaz-byte/PyPraxis/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Arbaz-byte/PyPraxis/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arbaz-byte/PyPraxis/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Arbaz-byte/PyPraxis/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0746-min-cost-climbing-stairs) |
 ## String
