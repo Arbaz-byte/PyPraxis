@@ -57,6 +57,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0643-maximum-average-subarray-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Arbaz-byte/PyPraxis/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Arbaz-byte/PyPraxis/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
@@ -109,6 +110,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
