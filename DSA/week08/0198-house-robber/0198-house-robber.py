@@ -3,6 +3,8 @@ class Solution:
 
         if len(nums) == 1:
             return nums[0]
+        if len(nums) == 2:
+            return max(nums[0], max(nums[0], nums[1]))
             
         prev, curr = nums[0], max(nums[0], nums[1])
 
