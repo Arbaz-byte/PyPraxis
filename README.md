@@ -51,6 +51,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0239-sliding-window-maximum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Arbaz-byte/PyPraxis/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Arbaz-byte/PyPraxis/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Arbaz-byte/PyPraxis/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Arbaz-byte/PyPraxis/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arbaz-byte/PyPraxis/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Arbaz-byte/PyPraxis/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Arbaz-byte/PyPraxis/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0746-min-cost-climbing-stairs) |
 ## String
@@ -313,6 +315,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0200-number-of-islands](https://github.com/Arbaz-byte/PyPraxis/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arbaz-byte/PyPraxis/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Arbaz-byte/PyPraxis/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Arbaz-byte/PyPraxis/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
@@ -370,4 +373,12 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Arbaz-byte/PyPraxis/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arbaz-byte/PyPraxis/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arbaz-byte/PyPraxis/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
