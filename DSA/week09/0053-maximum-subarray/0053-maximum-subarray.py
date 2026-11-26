@@ -3,8 +3,8 @@ class Solution:
         curr_sum = 0
         max_sum = float('-inf')
 
-        for i in range(len(nums)):
-            curr_sum += nums[i]
+        for num in nums:
+            curr_sum += num
             max_sum = max(curr_sum, max_sum)
 
             if curr_sum < 0:
