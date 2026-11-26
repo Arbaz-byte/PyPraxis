@@ -35,6 +35,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0046-permutations](https://github.com/Arbaz-byte/PyPraxis/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arbaz-byte/PyPraxis/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Arbaz-byte/PyPraxis/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Arbaz-byte/PyPraxis/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Arbaz-byte/PyPraxis/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
@@ -112,6 +113,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Arbaz-byte/PyPraxis/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -140,6 +142,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Arbaz-byte/PyPraxis/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arbaz-byte/PyPraxis/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Arbaz-byte/PyPraxis/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Arbaz-byte/PyPraxis/tree/master/0973-k-closest-points-to-origin) |
