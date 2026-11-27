@@ -115,6 +115,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Arbaz-byte/PyPraxis/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arbaz-byte/PyPraxis/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Arbaz-byte/PyPraxis/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaz-byte/PyPraxis/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arbaz-byte/PyPraxis/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Arbaz-byte/PyPraxis/tree/master/0139-word-break) |
@@ -133,6 +134,7 @@ Distributed under the MIT License. See the LICENSE file for more details.
 | [0022-generate-parentheses](https://github.com/Arbaz-byte/PyPraxis/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Arbaz-byte/PyPraxis/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Arbaz-byte/PyPraxis/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Arbaz-byte/PyPraxis/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Arbaz-byte/PyPraxis/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Arbaz-byte/PyPraxis/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Arbaz-byte/PyPraxis/tree/master/0139-word-break) |
